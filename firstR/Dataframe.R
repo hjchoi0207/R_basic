@@ -10,7 +10,7 @@ Qty <- c(5,2,4,7)
 # 2. Create Data Frame
 sales <- data.frame(No, Name, Price, Qty)
 sales  #대괄호[1] 없는 것이 특징 즉 벡터 형태가 x
-View(sales)
+View(sales) 
 
 sales[,2]
 sales$Name
