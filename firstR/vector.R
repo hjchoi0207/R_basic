@@ -22,4 +22,4 @@ vec2 <- c(3,4,5)
 union(vec1, vec2)
 setdiff(vec1, vec2)
 intersect(vec1, vec2)
-
+ 
