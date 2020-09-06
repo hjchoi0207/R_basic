@@ -16,3 +16,4 @@ subset(sales, Qty >=2, select = -Name) #Price 제외
 
 # combine 함수 응용
 subset(sales, Qty >= 3, select = c(Name, Price))
+ 
