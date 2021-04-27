@@ -22,9 +22,9 @@ R의 자료구조와 카카오톡 내용을 추출해 텍스트 마이닝 하는
  스마트미디어인재개발원인쌤TV 채널의 [R 중급](https://www.youtube.com/playlist?list=PLRYL8FHwJMhALkbLNQWRgV_O6YjDzgOKD) 과정으로 dplyr 패키지를 활용한 데이터 정제과정을 배운다.
  
 ## 강의 목차
-1. [filter](https://github.com/hjchoi0207/R-Intermediate/blob/master/dplyr-Filter.R) : csv파일의 원하는 행만을 추출하는 과정이다.
-2. [select](https://github.com/hjchoi0207/R-Intermediate/blob/master/dplyr-select.R) : csv파일의 원하는 열(세로)을 추출하는 과정, filter와 혼합하여 사용
-3. [arrange_mutate](https://github.com/hjchoi0207/R-Intermediate/blob/master/dplyr-arrange_mutate.R) : 특정요소 기준 정렬과 파생변수 생성
-4. [mutate](https://github.com/hjchoi0207/R-Intermediate/blob/master/mutate_2.R) : 조건문을 활용한 파생변수 생성
-5. [groupby_summarise](https://github.com/hjchoi0207/R-Intermediate/blob/master/groupby_summarise.R) : 그룹 별 평균, 그룹 별 요소 카운트 등
-6. [join & bind_rows](https://github.com/hjchoi0207/R-Intermediate/blob/master/join_bind%20rows.R)
+1. [filter](https://github.com/hjchoi0207/R_basic/blob/master/Intermediate/dplyr-Filter.R) : csv파일의 원하는 행만을 추출하는 과정이다.
+2. [select](https://github.com/hjchoi0207/R_basic/blob/master/Intermediate/dplyr-select.R) : csv파일의 원하는 열(세로)을 추출하는 과정, filter와 혼합하여 사용
+3. [arrange_mutate](https://github.com/hjchoi0207/R_basic/blob/master/Intermediate/dplyr-arrange_mutate.R) : 특정요소 기준 정렬과 파생변수 생성
+4. [mutate](https://github.com/hjchoi0207/R_basic/blob/master/Intermediate/mutate_2.R) : 조건문을 활용한 파생변수 생성
+5. [groupby_summarise](https://github.com/hjchoi0207/R_basic/blob/master/Intermediate/groupby_summarise.R) : 그룹 별 평균, 그룹 별 요소 카운트 등
+6. [join & bind_rows](https://github.com/hjchoi0207/R_basic/blob/master/Intermediate/join_bind%20rows.R)
